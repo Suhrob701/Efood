@@ -4,7 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // vite.config.js
 export default defineConfig({
-  base: "/Efood/", // GitHub Pages uchun kerak
   plugins: [
     react(),
     tailwindcss()
